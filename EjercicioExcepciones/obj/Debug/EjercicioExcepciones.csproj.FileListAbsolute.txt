@@ -1,0 +1,7 @@
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_Excepciones\EjercicioExcepciones\obj\Debug\EjercicioExcepciones.csprojAssemblyReference.cache
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_Excepciones\EjercicioExcepciones\obj\Debug\EjercicioExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_Excepciones\EjercicioExcepciones\bin\Debug\EjercicioExcepciones.exe.config
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_Excepciones\EjercicioExcepciones\bin\Debug\EjercicioExcepciones.exe
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_Excepciones\EjercicioExcepciones\bin\Debug\EjercicioExcepciones.pdb
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_Excepciones\EjercicioExcepciones\obj\Debug\EjercicioExcepciones.exe
+C:\Users\i40268\OneDrive - Verisk Analytics\Documents\C#\Laboratorio_Modulo_CSharp_Excepciones\EjercicioExcepciones\obj\Debug\EjercicioExcepciones.pdb
